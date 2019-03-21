@@ -6,6 +6,6 @@ I have a protein alignment, I translate it to CDS alignment using pal4nal.pl, af
 
 If you want to check my point, I have an example CDS alignment, you can try with it.
 
-Anyway, here I am, writ a perl script to get around that.
+Anyway, here I am, writing a perl script to get around that.
 
                                                             Du Kang 2019-3-22
