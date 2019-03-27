@@ -10,7 +10,7 @@ Usage: perl $0 cds.align >cds.align.gb
 
 v2. 
 	I give out a table file "n2o.pos" revealing the corresponding between a site positon id after and before gap-removing.
-								9019-3-27
+								2019-3-27
 
 --------------------------------
 EOF
