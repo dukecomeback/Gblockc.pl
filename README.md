@@ -9,3 +9,7 @@ If you want to check my point, I have an example CDS alignment, you can try with
 Anyway, here I am, writing a perl script to get around that.
 
                                                             Du Kang 2019-3-22
+
+# v2. 
+I give out a table file "n2o.pos" revealing the corresponding between a site positon id after and before gap-removing
+2019-3-27
