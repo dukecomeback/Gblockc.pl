@@ -67,6 +67,6 @@ close TAB;
 
 # output
 foreach $key (keys %seq){
-	$out{$key} !~ /\S/? die "Warning: with gaps removed, $ARGV[0] have no alignment column left!!\n" :  print "$key\n$out{$key}\n";
+	defined $out{$key}? print "$key\n$out{$key}\n" : die "Warning: with gaps removed, $ARGV[0] have no alignment column left!!\n";
 }
 
