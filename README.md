@@ -11,5 +11,5 @@ Anyway, here I am, writing a perl script to get around that.
                                                             Du Kang 2019-3-22
 
 # v2. 
-I give out a table file "n2o.pos" revealing the corresponding between sites positon id after and before gap-removing
+I give out a table file "n2o.pos" revealing the corresponding between sites positon id after and before gap-removing   
 2019-3-27
